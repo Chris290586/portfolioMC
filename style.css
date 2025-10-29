@@ -22,6 +22,12 @@ span {
   margin: 0;
 }
 
+div{
+    border: solid 5px green;
+    padding: 5px;
+    margin: 5px;
+}
+
 p{
   margin: 10px 0px;
 }
