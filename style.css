@@ -28,6 +28,14 @@ div{
     margin: 5px;
 }
 
+div{
+  border: 1px black solid;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 10px;
+}
+
+
 p{
   margin: 10px 0px;
 }
@@ -43,4 +51,10 @@ section{
 
 img{
   width: 200px;
+}
+
+body{
+  color:grey;
+  font-family: sans-serif;
+  padding: 5px;
 }
